@@ -3,7 +3,6 @@
 - 💼 I’m currently working on IoT
 - 💻 I’m currently learning development web full stack
 - 📚 I'm currently studying analysis and systems development
-- 📫 How to reach me: https://www.linkedin.com/in/alysson-ramos/
 <div>
   <a href="https://github.com/alyssonramos">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alyssonramos&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>

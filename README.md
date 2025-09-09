@@ -1,8 +1,8 @@
 <h1>Welcome to Alysson. Enjoy!⭐</h1>
 
-- 💼 I’m currently working on IoT
-- 💻 I’m currently learning development web full stack
-- 📚 I'm currently studying analysis and systems development
+- 💼 I’m currently working on SAP ABAP
+- 💻 I’m currently learning development backend
+- 📚 I'm currently studying computer engineer
 <div>
   <a href="https://github.com/alyssonramos">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alyssonramos&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
